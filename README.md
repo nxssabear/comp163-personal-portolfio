@@ -8,7 +8,7 @@ A Python program demonstrating data types learned in Chapter 3 while organizing 
 
 ## Features
 - Stores personal, academic, and financial information
-- Performs calculations (GPA, budget, study hours)
+- Performs calculations (GPA, budget, study hours, etc.)
 - Tracks hobbies, skills, and entertainment backlog
 - Professional Git workflow with version control
 
