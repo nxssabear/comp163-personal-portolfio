@@ -19,11 +19,11 @@ twitter_info = ("Twitter", "@jordanev", 127 )
 birthday = ("Birthday", "5", "22", "2006")
 
 #interest tracking
-current_skills = {"Python basics", "HTML", "Problem solving", "Time management", "Photography"}
-skills_learn = {"JavaScript", "Data structures", "Git", "Web design", "Public speaking"}
-career_interest = {"Software development", "Web development", "Data science", "Game development"}
-hobbies = {"Gaming", "Photography", "Reading", "Soccer", "Music"}
-entertainment_backlog = {"One Piece", "Barry", "Life", "Incantation", "Memento"}
+current_skills = {"Python basics", "HTML", "Problem solving", "Java", "JavaScript", "CSS"}
+skills_learn = {"Data structures", "Git", "Web design", "Public speaking"}
+career_interest = {"Software development", "Web development", "Cybersecurity", "Game development"}
+hobbies = {"Gaming", "Shopping", "Anime", "Volleyball", "Music"}
+entertainment_backlog = {"One Piece", "Sailor Moon", "Suits", "Code Geass", "The Summer I Turned Pretty"}
 
 #organizational mapping
 course_credits = {
