@@ -1,4 +1,4 @@
-sa#personal info 
+#personal info 
 full_name = "Vanessa Gray"
 student_email = "vcgray@aggies.ncat.edu"
 hometown = "Bowie, MD"
@@ -8,7 +8,7 @@ major = "Computer Science"
 #academic data
 current_courses = ["COMP 163", "MATH 132", "ENG 101", "HIS 106"]
 completed_courses = ["Calculus I", " AP World History", "Psychology", "Sociology"]
-credit_hours = [3, 3, 3, 3]
+credit_hours = [3, 4, 3, 3]
 GPA_history = [4.0]
 
 #contact info 
@@ -28,23 +28,23 @@ entertainment_backlog = {"One Piece", "Sailor Moon", "Suits", "Code Geass", "The
 #organizational mapping
 course_credits = {
     "COMP 163:": 3,
-    "MATH 150:": 3,
+    "MATH 132:": 4,
     "ENG 101:": 3,
-    "HIS 105:": 3
+    "HIS 106:": 3
 }
 
 course_professors = {
     "COMP 163": "Prof. Rhodes",
-    "MATH 150": "Dr. Lee",
-    "ENG 101": "Dr. Martinez",
-    "HIS 105": "Dr. Brown"
+    "MATH 132": "Prof. Clemence",
+    "ENG 101": "Prof. Turman",
+    "HIS 106": "Prof. Devoe"
 }
 
 course_rooms = {
     "COMP 163": "M-Eric 300",
-    "MATH 150": "Marteena 201",
-    "ENG 101": "Crosby 121",
-    "HIS 105": "Crosby 210"
+    "MATH 132": "Marteena 116",
+    "ENG 101": "General Classroom Building A111",
+    "HIS 106": "Asynchronous Class"
 }
 
 monthly_budget = {
@@ -55,10 +55,10 @@ monthly_budget = {
 }
 
 study_hours = {
-    "Programming": 10,
-    "Math": 8,
-    "English": 4,
-    "History": 3
+    "Programming": 8,
+    "Math": 6,
+    "English": 3,
+    "History": 2
 }
 
 contact_num = {
