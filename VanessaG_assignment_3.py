@@ -48,10 +48,10 @@ course_rooms = {
 }
 
 monthly_budget = {
-    "Food": 450,
+    "Food": 200,
     "Entertainment": 200,
-    "Books": 125,
-    "Transportation": 100
+    "Books": 0,
+    "Transportation": 150
 }
 
 study_hours = {
@@ -62,9 +62,9 @@ study_hours = {
 }
 
 contact_num = {
-    "Mom": "704-555-0199",
-    "Roommate": "336-555-7821",
-    "Academic Advisor": "336-334-5000"
+    "Mom": "301-742-4901",
+    "Roommate": "301-836-2462",
+    "Academic Advisor": "336-285-4213"
 }
 
 #required calc 
