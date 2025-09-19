@@ -1,8 +1,8 @@
-#personal info 
-full_name = "Jordan Smith"
-student_email = "jsmith@ncat.edu"
-hometown = "Charlotte, NC"
-grad_semester = "Spring 2028"
+sa#personal info 
+full_name = "Vanessa Gray"
+student_email = "vcgray@aggies.ncat.edu"
+hometown = "Bowie, MD"
+grad_semester = "Spring 2029"
 major = "Computer Science"
 
 #academic data
