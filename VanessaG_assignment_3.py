@@ -106,9 +106,9 @@ print(f"Academic Investment: ${study_cost_hour} per study hour")
 print()
 print(f"Current Courses:")
 print(f"{current_courses[0]} - {credit_hours[0]} credits - {(course_professors["COMP 163"])} - {(course_rooms["COMP 163"])}")
-print(f"{current_courses[1]} - {credit_hours[1]} credits - {(course_professors["MATH 150"])} - {(course_rooms["MATH 150"])}")
+print(f"{current_courses[1]} - {credit_hours[1]} credits - {(course_professors["MATH 132"])} - {(course_rooms["MATH 132"])}")
 print(f"{current_courses[2]} - {credit_hours[2]} credits - {(course_professors["ENG 101"])} - {(course_rooms["ENG 101"])}")
-print(f"{current_courses[3]} - {credit_hours[3]} credits - {(course_professors["HIS 105"])} - {(course_rooms["HIS 105"])}")
+print(f"{current_courses[3]} - {credit_hours[3]} credits - {(course_professors["HIS 106"])} - {(course_rooms["HIS 106"])}")
 
 print()
 
