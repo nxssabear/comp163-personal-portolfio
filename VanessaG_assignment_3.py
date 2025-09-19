@@ -1,4 +1,4 @@
-#personal info
+#personal info 
 full_name = "Jordan Smith"
 student_email = "jsmith@ncat.edu"
 hometown = "Charlotte, NC"
