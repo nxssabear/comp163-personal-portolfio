@@ -6,10 +6,10 @@ grad_semester = "Spring 2029"
 major = "Computer Science"
 
 #academic data
-current_courses = ["COMP 163", "MATH 150", "ENG 101", "HIS 105"]
-completed_courses = ["Biology", "Chemistry", "Calculus", "Spanish II", "Wolrd History"]
+current_courses = ["COMP 163", "MATH 132", "ENG 101", "HIS 106"]
+completed_courses = ["Calculus I", " AP World History", "Psychology", "Sociology"]
 credit_hours = [3, 3, 3, 3]
-GPA_history = [3.2, 3.6, 3.4, 3.7]
+GPA_history = [4.0]
 
 #contact info 
 emergency_contact = ("Mom", "Hannah Smith", "704-555-0199")
