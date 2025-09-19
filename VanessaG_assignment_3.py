@@ -12,11 +12,11 @@ credit_hours = [3, 3, 3, 3]
 GPA_history = [4.0]
 
 #contact info 
-emergency_contact = ("Mom", "Hannah Smith", "704-555-0199")
-home_address = ("456 Oak Street", "Charlotte, NC", "28202")
-insta_info = ("Instagram", "@jordan_codes", 312)
-twitter_info = ("Twitter", "@jordanev", 127 )
-birthday = ("Birthday", "5", "22", "2006")
+emergency_contact = ("Mom", "Cynthia Gray", "336-444-2299")
+home_address = ("305 Jersey Ct", "Bowie, MD", "20721")
+insta_info = ("Instagram", "@_nxssabear", 312)
+twitter_info = ("Twitter", "@nxssabear", 127 )
+birthday = ("Birthday", "1", "11", "2007")
 
 #interest tracking
 current_skills = {"Python basics", "HTML", "Problem solving", "Java", "JavaScript", "CSS"}
